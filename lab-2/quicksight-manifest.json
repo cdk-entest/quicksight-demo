@@ -1,0 +1,1 @@
+{"fileLocations": [{"URIs": ["s3://databucket-us-east-1-8152182433644896/SaaS-Sales.csv"]}],"globalUploadSettings": {"format": "CSV","delimiter": ",","containsHeader": "true"}}

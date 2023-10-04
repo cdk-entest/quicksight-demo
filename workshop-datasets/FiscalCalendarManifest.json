@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://ws-assets-prod-iad-r-iad-ed304a55c2ca1aee/cd8ebba2-2ef8-431a-8f72-ca7f6761713d/datasets/FiscalCalendar.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "\"",
+        "containsHeader": "true"
+    }
+}
